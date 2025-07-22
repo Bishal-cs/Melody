@@ -17,10 +17,11 @@ module.exports = {
   errorLog: "", 
   nodes: [
   {
-      host : gh46.glacierhosting.org
-      port : 25583
-      pass : youshallnotpass
-      source : false
+        name: "Anakin",
+        password: "anakin",
+        host: "us.apsara.lol",
+        port:  25575,
+        secure: false
       }
   ]
 }
